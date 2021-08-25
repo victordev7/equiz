@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:dartz/dartz.dart';
 import 'package:equiz/modules/auth/domain/auth_failures.dart';
-import 'package:equiz/modules/auth/domain/entities/user.dart';
+import 'package:equiz/modules/auth/domain/entities/user_entity.dart';
 import 'package:equiz/modules/auth/domain/repositories/auth_repository_interface.dart';
 import 'package:equiz/modules/auth/domain/usecases/create_account.dart';
 import 'package:equiz/modules/auth/domain/user_params.dart';

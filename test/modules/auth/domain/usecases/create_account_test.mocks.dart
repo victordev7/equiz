@@ -6,7 +6,7 @@ import 'dart:async' as _i4;
 
 import 'package:dartz/dartz.dart' as _i2;
 import 'package:equiz/modules/auth/domain/auth_failures.dart' as _i5;
-import 'package:equiz/modules/auth/domain/entities/user.dart' as _i6;
+import 'package:equiz/modules/auth/domain/entities/user_entity.dart' as _i6;
 import 'package:equiz/modules/auth/domain/repositories/auth_repository_interface.dart'
     as _i3;
 import 'package:equiz/modules/auth/domain/user_params.dart' as _i7;
